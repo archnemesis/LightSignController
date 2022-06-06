@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Robin/AndroidStudioProjects/LightSignController/app/src/main/res/drawable-v24/ic_signal_0_bar.xml" value="0.414" />
+        <entry key="..\:/Users/Robin/AndroidStudioProjects/LightSignController/app/src/main/res/layout/activity_add_device.xml" value="0.4536532170119956" />
+        <entry key="..\:/Users/Robin/AndroidStudioProjects/LightSignController/app/src/main/res/layout/activity_device_list.xml" value="0.47760416666666666" />
+        <entry key="..\:/Users/Robin/AndroidStudioProjects/LightSignController/app/src/main/res/layout/activity_main.xml" value="0.47760416666666666" />
+        <entry key="..\:/Users/Robin/AndroidStudioProjects/LightSignController/app/src/main/res/layout/device_list_empty.xml" value="0.47760416666666666" />
+        <entry key="..\:/Users/Robin/AndroidStudioProjects/LightSignController/app/src/main/res/layout/device_list_item.xml" value="0.47760416666666666" />
+        <entry key="..\:/Users/Robin/AndroidStudioProjects/LightSignController/app/src/main/res/layout/device_list_row.xml" value="0.47760416666666666" />
+        <entry key="..\:/Users/Robin/AndroidStudioProjects/LightSignController/app/src/main/res/layout/device_list_title.xml" value="0.47760416666666666" />
+        <entry key="..\:/Users/Robin/AndroidStudioProjects/LightSignController/app/src/main/res/layout/form_device_id.xml" value="0.47760416666666666" />
+        <entry key="..\:/Users/Robin/AndroidStudioProjects/LightSignController/app/src/main/res/layout/form_new_device_info.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/Robin/AndroidStudioProjects/LightSignController/app/src/main/res/layout/form_new_device_scan.xml" value="0.47760416666666666" />
+        <entry key="..\:/Users/Robin/AndroidStudioProjects/LightSignController/app/src/main/res/layout/fragment_device_selection.xml" value="0.47760416666666666" />
+        <entry key="..\:/Users/Robin/AndroidStudioProjects/LightSignController/app/src/main/res/menu/main.xml" value="0.47760416666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

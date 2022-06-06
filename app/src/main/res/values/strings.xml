@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LightSignController</string>
+    <string name="scanner_empty">No devices found</string>
+    <string name="bonded_devices">Bonded devices</string>
+    <string name="available_devices">Available devices</string>
+    <string name="scanner_permission_rationale">You need permissions to access the Bluetooth resources.</string>
+    <string name="scanner_action_scan">Scan</string>
+    <string name="scan">Scan</string>
+</resources>
